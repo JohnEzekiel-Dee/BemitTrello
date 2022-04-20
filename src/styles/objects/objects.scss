@@ -1,0 +1,16 @@
+.o-flex-container {
+    display: flex; 
+
+    &--row {
+        flex-direction: row;
+    }
+
+    &--column {
+        flex-direction: column;
+    }
+}
+
+.o-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

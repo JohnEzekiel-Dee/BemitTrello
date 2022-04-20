@@ -1,0 +1,24 @@
+.c-icon-button {
+    height: 38px;
+    width: 38px;
+    line-height: 38px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 0px; 
+    border-radius: 3px;
+    color: white;
+    margin: 0 5px 5px 0;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c-text-button {
+    height: 38px;
+    width: auto;
+    line-height: 38px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 0px; 
+    border-radius: 3px;
+    color: white;
+}
