@@ -1,0 +1,13 @@
+.c-page {
+  background: linear-gradient(36deg, rgba(80,42,168,1) 0%, rgba(255,255,255,1) 50%, rgba(214,72,158,1) 100%);
+  grid-template-columns: 60px auto;
+  grid-template-rows: min-content auto;
+
+  &__header {
+      grid-column: 1/-1;
+  }
+
+  &__sidebar { 
+      width: min-content;
+  }
+}
