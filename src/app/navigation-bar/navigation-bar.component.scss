@@ -1,0 +1,15 @@
+.c-primary-header {
+  background-color: #00000033;
+
+  &__right-box {
+      justify-self: end;
+  }
+}
+
+.c-logo {
+  text-align: center;
+  align-self: center;
+  &__image {
+      height: 22px;
+  }
+}
