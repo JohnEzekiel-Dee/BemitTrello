@@ -1,0 +1,10 @@
+.c-sidebar {
+  background-color: #00000033;
+  width: min-content;
+  height: 100%;
+  box-sizing: border-box;
+
+  &__content__button {
+    font-size: 25px;
+  }
+}
