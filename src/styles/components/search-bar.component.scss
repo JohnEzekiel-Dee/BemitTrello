@@ -1,10 +1,11 @@
 .c-search-bar {
-  height: 38px;
+  height: 40px;
   width: 300px;
   border-radius: 3px;
   background-color: rgba(255, 255, 255, 0.3);
 
   &__button {
     background-color: transparent;
+    float: right;
   }
 }
