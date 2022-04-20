@@ -1,0 +1,26 @@
+.c-board-header { 
+  width:100%; 
+  box-sizing: border-box;
+  align-items: center;
+
+  &__label {
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+  &__input { 
+    width: 200px;
+    background-color: rgba(255,255,255, 0.3);
+
+  }
+}
+
+.c-board-header__button {
+  &--text { 
+    width: auto;
+  }
+  &--round { 
+    border-radius: 50%;
+  }
+}
