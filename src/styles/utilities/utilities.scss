@@ -1,3 +1,25 @@
-.u-fill {
-    height: 100%;
+.u-padding-10 {
+  padding: 10px;
+}
+
+.u-margin-right-10 {
+  margin-right: 10px;
+}
+
+.u-margin-right-20 {
+  margin-right: 20px;
+}
+
+.u-margin-left-10 {
+  margin-left: 10px;
+}
+
+.u-divider {
+  margin: 5px 10px;
+  border: 0;
+  border-right: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.u-text-yellow {
+  color: $yellow;
 }
